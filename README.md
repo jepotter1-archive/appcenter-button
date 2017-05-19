@@ -1,4 +1,4 @@
 # appcenter-button
 Open an app in elementaryOS AppCenter from a webpage
 
-![](/get_it_on_appcenter.svg)
+![](https://rawgit.com/jwinnie/appcenter-button/master/get_it_on_appcenter.svg)
