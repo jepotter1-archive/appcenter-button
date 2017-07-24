@@ -1,4 +1,6 @@
 # appcenter-button
+> Note: elementary has released an OFFICIAL version of the icon [here](https://github.com/elementary/mockups/blob/master/web/appstream-button1.svg).
+
 Open an app in elementaryOS AppCenter from a webpage
 
 ![](/get_it_on_appcenter.png)
